@@ -30,7 +30,7 @@ def divider():
 def show_title():
 	clear_screen()
 	print(color(r"""
-GALAXY EXPLORERS!!!:	
+GALAXY EXPLORER TITAN:	
 				 SIGNALS OF THE LOST MOON
 """, "35"))
 	divider()
